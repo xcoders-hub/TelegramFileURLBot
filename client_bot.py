@@ -8,11 +8,11 @@ import validators
 from telethon import TelegramClient, events
 
 # https://my.telegram.org/
-api_id = XXXXXX
-api_hash = 'XXXXXXXXXXXXXXXXXXXXXXXXXXX'
+api_id = 1064864
+api_hash = '5f3eeab0e6108731551e6a93598b654c'
 
 # @BotFather (the script work also for a user account, change the code)
-bot_token = '123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZAABBCCDDEEFFG'
+bot_token = '1261526770:AAF2yUcExV3O1POnD2ydcKz5XmOEKaxtPWg'
 
 file_size = 200000000  # In Bytes
 
